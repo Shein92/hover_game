@@ -1,0 +1,20 @@
+.picker {
+    margin-bottom: 20px;
+}
+
+.select {
+    height: 30px;
+    width: 150px;
+    outline: none;
+    margin-right: 10px;
+}
+
+.btn {
+    height: 30px;
+    width: 70px;
+    border-radius: 5px;
+    outline: none;
+    border: none;
+    background-color:rgb(45, 82, 216);
+    color: white
+}

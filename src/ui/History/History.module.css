@@ -1,0 +1,21 @@
+.history {
+    text-align: center;
+    width: 120px;    
+}
+
+h2 {
+    margin-bottom: 18px;
+}
+
+.historyItem {
+    width: 120px;
+    height: 30px;
+    background-color: rgb(250, 239, 177);
+    margin-bottom: 5px;
+    border: 1px solid rgb(255, 228, 76);
+    border-radius: 5px;
+}
+
+.historyItem span {
+    font-weight: 500;
+}
